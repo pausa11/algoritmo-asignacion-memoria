@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algoritmo-asignacion-memoria/static/css/main.e6c13ad2.css",
+    "main.js": "/algoritmo-asignacion-memoria/static/js/main.ea8e5160.js",
+    "static/js/453.f4d9a994.chunk.js": "/algoritmo-asignacion-memoria/static/js/453.f4d9a994.chunk.js",
+    "index.html": "/algoritmo-asignacion-memoria/index.html",
+    "main.e6c13ad2.css.map": "/algoritmo-asignacion-memoria/static/css/main.e6c13ad2.css.map",
+    "main.ea8e5160.js.map": "/algoritmo-asignacion-memoria/static/js/main.ea8e5160.js.map",
+    "453.f4d9a994.chunk.js.map": "/algoritmo-asignacion-memoria/static/js/453.f4d9a994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ea8e5160.js"
+  ]
+}
